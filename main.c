@@ -1,7 +1,6 @@
 #include <stdbool.h>
 #include <stdint.h>
 
-#include "boards.h"
 #include "nrf52840.h"
 #include "nrf_delay.h"
 #include "nrf_log.h"
