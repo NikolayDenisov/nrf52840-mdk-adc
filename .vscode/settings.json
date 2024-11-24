@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "nrf52840.h": "c",
+        "system_nrf52.h": "c",
+        "system_nrf52_approtect.h": "c",
+        "nrf.h": "c",
+        "bsp.h": "c",
+        "nrf_delay.h": "c",
+        "app_error.h": "c",
+        "nrf_uart.h": "c",
+        "nrf_uarte.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "nrf_drv_uart.h": "c",
+        "cstdio": "c",
+        "nrf52840_bitfields.h": "c",
+        "nrf_gpio.h": "c",
+        "nrf_drv_saadc.h": "c"
+    },
+    "nrf-connect.topdir": "${nrf-connect.sdk:2.6.1}",
+    "cortex-debug.variableUseNaturalFormat": true
+}
