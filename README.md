@@ -32,4 +32,4 @@ make
 6. Flash microcontoller
 ```bash
 make flash
-```
+```# nrf52840-mdk-adc
